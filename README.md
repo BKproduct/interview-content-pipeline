@@ -4,11 +4,14 @@ Self-contained HTML + vendored Mermaid (no CDN) for reliable rendering.
 
 ## GitHub Pages
 
-1. Create a new public repository on GitHub and push this folder.
-2. Enable **Settings → Pages → Build and deployment → GitHub Actions** (recommended) **or** **Deploy from a branch → `main` → `/docs`**.
-3. Open:
+Live pages (this repo):
 
-`https://<github-username>.github.io/<repo-name>/interview-pipeline-visual.html`
+- HTML: `https://bkproduct.github.io/interview-content-pipeline/interview-pipeline-visual.html`
+- Repo: `https://github.com/BKproduct/interview-content-pipeline`
+
+## Excalidraw (editable)
+
+- `docs/interview-content-pipeline.excalidraw` — открой в [excalidraw.com](https://excalidraw.com) через **Open** (или перетащи файл).
 
 ## Production site (ai-automation.studio)
 
